@@ -1,0 +1,11 @@
+from main import Repeater
+x = Repeater('Hello', 5)
+x.run()
+x = Repeater('I', 5)
+x.run()
+x = Repeater('a', 4)
+x.run()
+x = Repeater('hello ', 3)
+x.run()
+x = Repeater('abc', 2)
+x.run()
