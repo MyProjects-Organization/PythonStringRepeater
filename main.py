@@ -1,3 +1,5 @@
+# This is the link to this Python Coding Challenge from codewars.com
+# https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python
 class Repeater:
 
     def __init__(self, string, repeat):
